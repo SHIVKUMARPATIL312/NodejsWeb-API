@@ -1,0 +1,20 @@
+{
+    "tasks":[
+        {
+            "title": "Software Developer",
+            "description": "We are seeking a skilled software developer to join our dynamic team. The ideal candidate will be responsible for designing, coding, and modifying software applications, from layout to function.",
+            "experience": "3+ years"
+          },
+          {
+            "title": "Digital Marketing Specialist",
+            "description": "Join our marketing team to drive online brand visibility and customer engagement. The Digital Marketing Specialist will be responsible for developing and implementing effective digital marketing strategies across various channels.",
+            "experience": "2+ years "
+          },
+          {
+            "title": "Data Scientist",
+            "description": "We are looking for a talented data scientist to analyze large datasets, build predictive models, and extract valuable insights. The candidate will play a key role in informing business decisions through data-driven analysis.",
+            "experience": "4+ years "
+          }
+
+    ]
+}
